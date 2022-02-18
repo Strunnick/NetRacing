@@ -3,7 +3,7 @@ ___Neural Network Racing python version with genetic algoritm___
 
 Аналог проекта, созданного на C#: https://github.com/Storm-23/NNRacing
 
-Пример использования в ноутбуке - 
+Пример использования в ноутбуке - https://github.com/Strunnick/NetRacing/blob/main/TrainerTest.ipynb
 
 Реализация управления движением автомобиля при помощи нейросети.
 Обучение сети производится генетическим алгоритмом.

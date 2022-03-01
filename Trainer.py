@@ -1,7 +1,6 @@
 from TheCar import Car
 from Sensors import Sensors
 from Track import Track
-import torch
 from genetic.geneticNN import GeneticNN
 
 # Trainer of NNet for car racing

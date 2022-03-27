@@ -1,5 +1,5 @@
 # NetRacing
-![Иллюстрация](https://github.com/Strunnick/NetRacing/img/)
+![](https://github.com/Strunnick/NetRacing/blob/main/images/logo_im.png)
 ___Neural Network Racing python version with genetic algoritm___
 
 Аналог проекта, созданного на C#: https://github.com/Storm-23/NNRacing
